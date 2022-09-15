@@ -188,13 +188,7 @@ html{
      margin-top: 4px;
 
  }
- #contact-box {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     padding-bottom: 38px;
- }
- #contact::before{
+#contact::before{
      content: "";
      position: absolute;
       background: url('background/8080c924-fe51-43af-83bc-4c1ee9997175.jpg.jpg')no-repeat center center/cover;
@@ -204,6 +198,13 @@ html{
      opacity: 0.7;
     
  }
+ #contact-box {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-bottom: 38px;
+ }
+ 
 #contact-box input,
 #contact-box textarea{
     width: 100%;
