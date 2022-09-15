@@ -192,7 +192,7 @@ html{
      display: flex;
      justify-content: center;
      align-items: center;
-     padding-bottom: 34px;
+     padding-bottom: 38px;
  }
  #contact::before{
      content: "";
@@ -201,7 +201,7 @@ html{
      height: 100%;
      z-index: -1;
      opacity: 0.7;
-     background: url('background/forza-horizon-5-4.jpg')no-repeat center center/cover;
+     background: url('background/8080c924-fe51-43af-83bc-4c1ee9997175.jpg.jpg')no-repeat center center/cover;
  }
 #contact-box input,
 #contact-box textarea{
